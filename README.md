@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Android Native**
 
-- 📫 How to reach me **mrunalrajredij@gmai.com**
+- 📫 How to reach me **mrunalrajredij@gmail.com**
 
 - 📄 Know about my experiences [(Work in progress)]((Work in progress))
 
